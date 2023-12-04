@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: plp
+Version: 2.6.1
+Summary: PLP - Python wrapper to CLP (Polish inflectional dictionary)
+Home-page: https://github.com/agh-glk/plp
+Author: Krzysztof Dorosz
+Author-email: cypreess@gmail.com
+License: MIT
