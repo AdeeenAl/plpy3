@@ -1,0 +1,8 @@
+README.rst
+setup.py
+plp/__init__.py
+plp/plp.py
+plp.egg-info/PKG-INFO
+plp.egg-info/SOURCES.txt
+plp.egg-info/dependency_links.txt
+plp.egg-info/top_level.txt
